@@ -3,7 +3,7 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #5372F0;
+    background: #009EDF;
 }
 
 .container {
@@ -76,5 +76,5 @@ font-weight: 500;
 }
 
 .buttons .check-word {
-    background: #5372F0;
+    background: #FCC31E;
 }
